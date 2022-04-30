@@ -3,4 +3,4 @@
 Descrição inicial do meu READ ME
 
 ## Para que serve esse arquivo
-Serve para...
+Serve para descrever as funncionalidades do software: o que faz, como faz, porque faz, etc.
